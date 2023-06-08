@@ -1,5 +1,5 @@
 hello i am nikhil doing change in master 
-this file belongs to master
+doing this for getting conflit 
 
 first 100 lines of code
 

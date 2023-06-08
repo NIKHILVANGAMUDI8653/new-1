@@ -1,3 +1,4 @@
+hello i am nikhil doing change in master 
 this file belongs to master
 
 first 100 lines of code
